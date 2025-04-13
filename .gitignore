@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment
+farmeragentenv/
+.env
+
+# Audio Files
+*.mp3
+*.wav
+
+# Flask + Logs
+*.log
+instance/
+.webassets-cache
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Ngrok logs
+ngrok.log
